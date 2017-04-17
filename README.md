@@ -1,3 +1,3 @@
 # hey-earth
 
-My name is Orion Guan, and I want to make beautiful things.
+My name is Orion, and I want to make beautiful things.
